@@ -1,4 +1,4 @@
-IP that have location enable or public 
+IP that have location enable or are public 
 
 ## Setup
 * maxmind.com
@@ -16,4 +16,4 @@ IP that have location enable or public
 * MAP `statics > EndPoints > map`
 
 ## Also Can Make Filter of It
-> just drap and drop
+> just drag and drop to Filter Bar
